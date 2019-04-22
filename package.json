@@ -20,5 +20,8 @@
   "homepage": "https://github.com/thought2/simple-midi-fader#readme",
   "devDependencies": {
     "parcel": "^1.12.3"
+  },
+  "dependencies": {
+    "webmidi": "^2.3.3"
   }
 }
